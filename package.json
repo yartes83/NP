@@ -1,0 +1,24 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "homepage": "https://github.com/yartes83/NP#readme",
+  "bugs": {
+    "url": "https://github.com/yartes83/NP/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yartes83/NP.git"
+  },
+  "license": "ISC",
+  "author": "Yaroslav Golub",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "gulp": "^5.0.1"
+  }
+}
