@@ -19,6 +19,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "gulp": "^5.0.1"
+    "browser-sync": "^3.0.4",
+    "gulp": "^5.0.1",
+    "gulp-changed": "^5.0.4",
+    "gulp-clean": "^0.4.0",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-imagemin": "^9.2.0"
   }
 }
